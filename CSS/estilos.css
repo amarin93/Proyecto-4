@@ -1,0 +1,37 @@
+body{
+    font-family: sans-serif;
+}
+
+header{
+    background-color:rgb(16, 49, 92);
+    padding:20px;
+    margin:0;
+    color:white;
+}
+nav{
+    background-color:white;
+    padding:20px;
+    margin:0;
+}
+
+nav ul{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+
+nav ul li{
+    display: inline-block;
+    padding-right:20px;
+}
+
+nav ul li a.activo{
+    color: lightblue;
+}
+
+footer{
+    background-color: rgb(16, 49, 92);
+    padding:20px;
+    margin:0;
+    color:white;
+}
